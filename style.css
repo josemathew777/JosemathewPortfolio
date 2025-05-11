@@ -720,7 +720,7 @@ footer h1{
 
 /* Close Side bar Animation */
 .sidebar.close-sidebar{
-    animation: closeSidebarAnimation 1.5s forwards;
+    animation: closeSidebarAnimation 3.5s forwards;
 }
 
 @keyframes closeSidebarAnimation {
