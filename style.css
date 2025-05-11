@@ -658,7 +658,7 @@ footer h1{
     right: 0;
     top: 0;
     bottom: 70%;
-    width: 80%;
+    width: 0%;
     background-color: #000000b8;
     backdrop-filter: blur(10px);
     z-index: 999;
@@ -720,7 +720,7 @@ footer h1{
 
 /* Close Side bar Animation */
 .sidebar.close-sidebar{
-    animation: closeSidebarAnimation 4.5s forwards;
+    animation: closeSidebarAnimation 1.5s forwards;
 }
 
 @keyframes closeSidebarAnimation {
