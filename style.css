@@ -1035,4 +1035,7 @@ footer h1{
         margin-top: 20px;
     }
 
+    .info-cards button{
+        margin-right: 30px;
+    }
 }
