@@ -1026,9 +1026,13 @@ footer h1{
         display: inline;
     }
 
-    .card{
+    .card {
         padding: 15px;
         font-size: 15px;
+    }
+
+    .info-cards p{
+        margin-top: 20px;
     }
 
 }
